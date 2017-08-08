@@ -5,4 +5,10 @@
     <string name="setting_enabled" translatable="false">EnabledSetting</string>
     <string name="settings_label">Settings</string>
     <string name="enable_geofences">Enable Geofences</string>
+    <string name="silent_mode_activated">Silent Mode activated</string>
+    <string name="back_to_normal">Normal mode activated</string>
+    <string name="touch_to_relaunch">touch to relaunch</string>
+    <string name="location_permissions">Location Permissions</string>
+    <string name="need_location_permission_message">Need Location Permission</string>
+    <string name="location_permissions_granted_message">Has location permission</string>
 </resources>
